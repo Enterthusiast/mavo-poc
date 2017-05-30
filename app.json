@@ -1,5 +1,15 @@
 {
 	"title": "Trop la classe ce titre ! :D",
 	"email": "yo@tuglife.com",
-	"message": "Do you persist?"
+	"message": "Do you persist?",
+	"pet": [
+		{
+			"name": "Adam Catlace",
+			"birthday": "2014-06-01"
+		},
+		{
+			"name": "Johny Boy",
+			"birthday": "2017-05-03"
+		}
+	]
 }
