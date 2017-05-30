@@ -1,0 +1,29 @@
+<head>
+    <link rel="stylesheet" href="https://get.mavo.io/mavo.css"/>
+    <script src="https://get.mavo.io/mavo.js"></script>
+</head>
+<body>
+    <div mv-app="app" id="app" mv-storage="https://github.com/enterthusiast/mavo-poc">
+        <div id="admin" class="mv-bar mv-ui"></div>
+        <h1 property="title">My first Mavo app!</h1>
+        <label>
+            Email:
+            <input type="email" property="email" value="foo@bar.com" />
+        </label>
+        <label>
+            Message:
+            <textarea property="message">
+			Edit the form and notice how the values persist after you refresh!
+		</textarea>
+        </label>
+        <article property="pet" mv-multiple>
+            <h1 property="name">Adam Catlace</h1>
+            Born on
+            <time property="birthday" datetime="2014-06-01">1 Jun 2014</time>
+        </article>
+        <p>Slider value: [strength/100]</p>
+        <input type="range" property="strength" title="[strength]%" />
+    </div>
+    <script>
+    </script>
+</body>
