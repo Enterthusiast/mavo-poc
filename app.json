@@ -1,15 +1,11 @@
 {
-	"title": "Trop la classe ce titre ! :D",
-	"email": "azerazerazer",
-	"message": "hzerertzert",
+	"title": "Test",
+	"email": "foo@bar.com",
+	"message": "\t\t\tEdit the form and notice how the values persist after you refresh!\n\t\t",
 	"pet": [
 		{
 			"name": "Adam Catlace",
 			"birthday": "2014-06-01"
-		},
-		{
-			"name": "Johny Boy",
-			"birthday": "2017-05-03"
 		}
 	],
 	"strength": 50
