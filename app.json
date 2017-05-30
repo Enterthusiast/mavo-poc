@@ -1,7 +1,7 @@
 {
 	"title": "Trop la classe ce titre ! :D",
-	"email": "yo@tuglife.com",
-	"message": "Do you persist?",
+	"email": "azerazerazer",
+	"message": "hzerertzert",
 	"pet": [
 		{
 			"name": "Adam Catlace",
@@ -11,5 +11,6 @@
 			"name": "Johny Boy",
 			"birthday": "2017-05-03"
 		}
-	]
+	],
+	"strength": 50
 }
